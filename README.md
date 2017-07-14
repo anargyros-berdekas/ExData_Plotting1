@@ -1,3 +1,13 @@
+coursera_04_Exploratory_Data_Analysis
+
+This is my repository for coursera Data Science Spezialization 4th Course: Exploratory Data Analysis
+
+The R script files included in this repo present the relevant code needed to create descrriptive plots out of the Dataset: Electric power consumption, derived from UC Irvine Machine Learning Repository, a repository for machine learning data.
+
+Each script produces a different plot
+
+The data input can be found at https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
+
 ## Introduction
 
 This assignment uses data from
